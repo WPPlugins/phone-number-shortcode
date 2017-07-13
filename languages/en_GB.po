@@ -1,0 +1,53 @@
+# Copyright (C) 2017 Phone Number Shortcode
+# This file is distributed under the same license as the Phone Number Shortcode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Phone Number Shortcode 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/phone-number-"
+"shortcode\n"
+"POT-Creation-Date: 2017-02-08 10:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-02-08 10:21+0000\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+
+#: phone-number-shortcode.php:52
+msgid "Enter your phone number below"
+msgstr "Enter your phone number below"
+
+#: phone-number-shortcode.php:56
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: phone-number-shortcode.php:66
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#. Plugin Name of the plugin/theme
+msgid "Phone Number Shortcode"
+msgstr "Phone Number Shortcode"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.silkwave.co.uk"
+msgstr "https://www.silkwave.co.uk"
+
+#. Description of the plugin/theme
+msgid ""
+"Create a phone number attribute on the database for shortcode use throughout "
+"the website."
+msgstr ""
+"Create a phone number attribute on the database for shortcode use throughout "
+"the website."
+
+#. Author of the plugin/theme
+msgid "Liam McArthur"
+msgstr "Liam McArthur"
+
+#. Author URI of the plugin/theme
+msgid "https://twitter.com/liammcarthur"
+msgstr "https://twitter.com/liammcarthur"
